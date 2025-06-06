@@ -66,7 +66,9 @@ Enter
  cp ~/storage/downloads/start.sh ~/ && chmod +x start.sh
  ```
 
-![hippo] (https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI5anZsbzZnb24xdTI1dGt0aDZ6ajVheDQ5M2wza2x6dDVqeGFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8HpNYcY48ag9tUwZID/giphy.gif)
+<p>
+  <https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI5anZsbzZnb24xdTI1dGt0aDZ6ajVheDQ5M2wza2x6dDVqeGFjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8HpNYcY48ag9tUwZID/giphy.gif" alt="hippo" />
+</p>
 
 ## Сервер успешно установлен, и запускаеться командой:
   ```
