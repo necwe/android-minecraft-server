@@ -1,4 +1,4 @@
-#**[English](./README.md)** | **[Deutsch](./README_DE.md)** | **[Українська](./README_ua.md)** | **Русский**
+# **[English](./README.md)** | **[Deutsch](./README_DE.md)** | **[Українська](./README_ua.md)** | **Русский**
 
 Эта инструкция позволит вам открыть сервер Minecraft с вашего телефона.
 
