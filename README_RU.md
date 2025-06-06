@@ -17,7 +17,7 @@
   ```
  pkg upgrade -y && pkg install openjdk-17 -y && pkg install wget -y
  ```
- ![hippo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHptMDQwYXFxbTcxeXJxYmNuenRwdmZhbzdpYnVveGk5MDIxYWdubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HMTo9Def5lrguInva8/giphy.gif)
+ ![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ3cW5hemozZHY0eWl0OXNhZGJzZ3QwdmZxNWV2ejVxZDQweTA0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zfTypSIDGNaUH3IZF4/giphy.gif)
 
 2. Дайте разрешение Termux к хранилищу Android.
   ```
