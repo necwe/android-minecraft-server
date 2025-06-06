@@ -46,9 +46,9 @@ cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui</code></pre
 
 4. Согласитесь с лицензией eula.
 Стрелочками перейдите на строчку с "eula=false", измените "false" на "true".
-Для сохранения, прожмите:
-Ctrl+X
-Y
+Для сохранения, прожмите:<br>
+Ctrl+X<br>
+Y<br>
 Enter
 
 ![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhoODdvN2hjcnF6ODRrcnYzM2UwdWxzaGMyMWV1OWdkc2Q3YXM2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GsSgLaOAFo6RL1n41h/giphy.gif)
