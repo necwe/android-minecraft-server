@@ -17,13 +17,13 @@
   ```
  pkg upgrade -y && pkg install openjdk-17 -y && pkg install wget -y
  ```
- ![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ3cW5hemozZHY0eWl0OXNhZGJzZ3QwdmZxNWV2ejVxZDQweTA0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zfTypSIDGNaUH3IZF4/giphy.gif)
+ ![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNiMnl3MW9yZm5wcnh3dmFlZjJsODF2aW43OXl3Zmpyb2IzMzh5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JDvvVvvuYn4RvqT4bM/giphy.gif)
 
 2. Дайте разрешение Termux к хранилищу Android.
   ```
  termux-setup-storage
  ```
- ![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVrNmZwbzVvcWM1Z29ua3pzaWptYzFxbGdoNG1xeW1sa2ZsOHJweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tlp3ycP9x8p6ocy4sE/giphy.gif)
+ ![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVuMmpvc205ZjA5MnNweHBiN2IydGJ1bXZsMzd6Y2Vocm0zMzllZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTddG6F2dAVHilKPDd/giphy.gif)
 
 3. Установка Minecraft сервера в папку "MinecraftServer" в Termux.
 <details>
@@ -31,7 +31,7 @@
 <pre><code>mkdir ~/MinecraftServer && wget -P ~/MinecraftServer  https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar &&
 cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui</code></pre>
 <p>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B5b3dwbzlqcmplaHk1dmY2bGxrOGI0c3A0Zno0NGQ4OGg1ZTFyOSZlcD12MV9pbnRlcmlmYWdlX2J5X2lkJmN0PWc/eCx1BzbcAYoPM7SoL8/giphy.gif" alt="hippo" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZpdzRoYjl0dmkwZjQ5cDgxMHBqaWZpbXd3NHViM2c2OGk5cGQ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bDqpjNmqdwLlzDlMeA/giphy.gif" alt="hippo" />
 </p>
 
 </details>
@@ -45,14 +45,13 @@ cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui</code></pre
 </details>
 
 4. Согласитесь с лицензией eula.
-  ```
- termux-setup-storage
- ```
 Стрелочками перейдите на строчку с "eula=false", измените "false" на "true".
-Для сохранен7ия, прожмите:
+Для сохранения, прожмите:
 Ctrl+X
 Y
 Enter
+
+![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhoODdvN2hjcnF6ODRrcnYzM2UwdWxzaGMyMWV1OWdkc2Q3YXM2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GsSgLaOAFo6RL1n41h/giphy.gif)
 
 5. Установка параметров запуска сервера.
  - Настойчиво рекомендую перейти на сайт [flags.sh](https://flags.sh/), установив подходящее количество оперативной памяти с вашего телефона, оставив под систему хотябы 0.5 GB ОЗУ.
