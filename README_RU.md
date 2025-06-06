@@ -23,17 +23,27 @@
   ```
  termux-setup-storage
  ```
+ ![hippo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVrNmZwbzVvcWM1Z29ua3pzaWptYzFxbGdoNG1xeW1sa2ZsOHJweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tlp3ycP9x8p6ocy4sE/giphy.gif)
 
-3. Установка Minecraft 1.21.5 сервера в созданную папку "MinecraftServer" в Termux.
+3. Установка Minecraft сервера в папку "MinecraftServer" в Termux.
+<details>
+<summary>Чистый Vanilla Minecraft server 1.21.5</summary>
  ```
  mkdir ~/MinecraftServer && wget -P ~/MinecraftServer  https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar &&
 cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui
  ```
-Или можно загрузить свой прогрузивщийся сервер(даже с модами/плагинами).
-Заранее изменив файл запуска на "server.jar".
+
+</details>
+
+<details>
+<summary>Загрузка своего сервера(даже с модами/плагинами).</summary>
+Переменуюте файл запуска в "server.jar", и импортируйте на ваш телефон.
+> [!CAUTION]
+>Обратите внимание на коприуемую команду!
   ```
- mkdir ~/MinecraftServer && cp ~/Ваш путь в папку с файлами/. ~/MinecraftServer/
+ mkdir ~/MinecraftServer && cp ~/Ваш путь в папку с файлами сервера/. ~/MinecraftServer/
  ```
+</details>
 
 4. Согласитесь с лицензией eula.
   ```
