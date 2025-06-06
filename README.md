@@ -40,7 +40,7 @@ cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui</code></pre
 Rename the startup file to ‘server.jar’ and import the server folder into your phone's downloads.<br>
 ⚠ Pay attention to the command being copied!
 
- <pre><code>mkdir ~/MinecraftServer && cd ~/storage/downloads/Ваша папка сервера && cp -r * ~/MinecraftServer && cd ~/</code></pre>
+ <pre><code>mkdir ~/MinecraftServer && cd ~/storage/downloads/Your server folder && cp -r * ~/MinecraftServer && cd ~/</code></pre>
  <p>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNpcHVtMjM5b2FrdHFsdmh2c2pjZDJhNWF4czIyM3Q1N3hoaTQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lq7CavFOQJH0zSgCJz/giphy.gif" alt="hippo" />
 </p>
