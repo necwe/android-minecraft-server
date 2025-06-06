@@ -30,13 +30,13 @@
 <summary>Чистый Vanilla Minecraft server 1.21.5</summary>
 <pre><code>mkdir ~/MinecraftServer && wget -P ~/MinecraftServer  https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar &&
 cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui</code></pre>
-
+![hippo] (https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B5b3dwbzlqcmplaHk1dmY2bGxrOGI0c3A0Zno0NGQ4OGg1ZTFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCx1BzbcAYoPM7SoL8/giphy.gif)
 </details>
 
 <details>
 <summary>Загрузка своего сервера(даже с модами/плагинами).</summary>
 Переменуюте файл запуска в "server.jar", и импортируйте на ваш телефон.<br>
-⚠ ВНИМАНИЕ: Обратите внимание на копируемую команду!
+⚠ Обратите внимание на копируемую команду!
 
  <pre><code>mkdir ~/MinecraftServer && cp ~/Ваш путь в папку с файлами сервера/. ~/MinecraftServer/</code></pre>
 </details>
@@ -52,7 +52,7 @@ Y
 Enter
 
 5. Установка параметров запуска сервера.
- - Настойчиво рекомендую перейти на сайт [flags.sh](https://flags.sh/), установив подходящее количество оперативной памяти с вашего телефона, оставив под андроид хотябы 0.5 GB ОЗУ.
+ - Настойчиво рекомендую перейти на сайт [flags.sh](https://flags.sh/), установив подходящее количество оперативной памяти с вашего телефона, оставив под систему хотябы 0.5 GB ОЗУ.
 
  После скачивания, добавте в файл:
   ```
