@@ -25,8 +25,7 @@
 
 3. Установка Minecraft 1.21.5 сервера в созданную папку "MinecraftServer" в Termux.
  ```
- mkdir ~/MinecraftServer &&
-wget -P ~/MinecraftServer  https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar &&
+ mkdir ~/MinecraftServer && wget -P ~/MinecraftServer  https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar &&
 cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui
  ```
 Или можно загрузить свой прогрузивщийся сервер(даже с модами/плагинами).
@@ -41,7 +40,7 @@ cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui
  ```
 Стрелочками перейдите на строчку с "eula=false", измените "false" на "true".
 Для сохранен7ия, прожмите:
-Ctrl+w
+Ctrl+X
 Y
 Enter
 
