@@ -36,8 +36,8 @@ cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui</code></pre
 <details>
 <summary>Загрузка своего сервера(даже с модами/плагинами).</summary>
 Переменуюте файл запуска в "server.jar", и импортируйте на ваш телефон.
-> [!CAUTION]
->Обратите внимание на коприуемую команду!
+**⚠ ВНИМАНИЕ:** Обратите внимание на копируемую команду!
+
  <pre><code>mkdir ~/MinecraftServer && cp ~/Ваш путь в папку с файлами сервера/. ~/MinecraftServer/</code></pre>
 </details>
 
