@@ -40,9 +40,9 @@ cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui
 Переменуюте файл запуска в "server.jar", и импортируйте на ваш телефон.
 > [!CAUTION]
 >Обратите внимание на коприуемую команду!
-  ```
+  <pre><code>
  mkdir ~/MinecraftServer && cp ~/Ваш путь в папку с файлами сервера/. ~/MinecraftServer/
- ```
+ </code></pre>
 </details>
 
 4. Согласитесь с лицензией eula.
