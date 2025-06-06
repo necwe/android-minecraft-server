@@ -28,10 +28,8 @@
 3. Установка Minecraft сервера в папку "MinecraftServer" в Termux.
 <details>
 <summary>Чистый Vanilla Minecraft server 1.21.5</summary>
- ```
- mkdir ~/MinecraftServer && wget -P ~/MinecraftServer  https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar &&
-cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui
- ```
+<pre><code>mkdir ~/MinecraftServer && wget -P ~/MinecraftServer  https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar &&
+cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui</code></pre>
 
 </details>
 
@@ -40,9 +38,7 @@ cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui
 Переменуюте файл запуска в "server.jar", и импортируйте на ваш телефон.
 > [!CAUTION]
 >Обратите внимание на коприуемую команду!
-  <pre><code>
- mkdir ~/MinecraftServer && cp ~/Ваш путь в папку с файлами сервера/. ~/MinecraftServer/
- </code></pre>
+ <pre><code>mkdir ~/MinecraftServer && cp ~/Ваш путь в папку с файлами сервера/. ~/MinecraftServer/</code></pre>
 </details>
 
 4. Согласитесь с лицензией eula.
