@@ -30,7 +30,10 @@
 <summary>Чистый Vanilla Minecraft server 1.21.5</summary>
 <pre><code>mkdir ~/MinecraftServer && wget -P ~/MinecraftServer  https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar &&
 cd MinecraftServer && java -Xmx1024M -Xms1024M -jar server.jar nogui</code></pre>
-![hippo] (https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B5b3dwbzlqcmplaHk1dmY2bGxrOGI0c3A0Zno0NGQ4OGg1ZTFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCx1BzbcAYoPM7SoL8/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B5b3dwbzlqcmplaHk1dmY2bGxrOGI0c3A0Zno0NGQ4OGg1ZTFyOSZlcD12MV9pbnRlcmlmYWdlX2J5X2lkJmN0PWc/eCx1BzbcAYoPM7SoL8/giphy.gif" alt="hippo" />
+</p>
+
 </details>
 
 <details>
